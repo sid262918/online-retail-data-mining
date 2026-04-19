@@ -1,8 +1,12 @@
-# online-retail-data-mining
-The goal of this project is to explore the Online Retail dataset using data mining techniques. The task is to apply frequent itemset and association rule mining and further the analysis using sequential pattern mining.
+# Online Retail Data Mining
 
-The notebook includes:
-* Data cleaning and preprocessing
-* EDA
-* Hypothesis
-* Project Direction
+This project explores the Online Retail dataset using data mining techniques to find patterns in customer purchasing behavior.
+
+The primary objective is to identify relationships between products using Frequent Itemset Mining and Association Rule Mining. These methods help identify which items are commonly purchased together and how strong those relationships are.
+
+
+## Files and its Contents
+
+- `datamining_project_checkpoint1.ipynb` — dataset selection, cleaning, and EDA  
+- `checkpoint2_RQ_formation.ipynb` — research questions and method planning  
+- `Online_Retail_Final_Project.ipynb` — final project with results and conclusions
