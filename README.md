@@ -6,7 +6,7 @@ This project uses an Online Retail dataset to examine the purchasing patterns of
 Start here: **main_notebook.ipynb**
 
 ## Research Questions
-- What itemset appear in the Online Retail dataset when varying the support threshold?
+- What itemsets appear in the Online Retail dataset when varying the support threshold?
 - How do the confidence and lift compare when dealing with association rules evaluated from the retail transactions?
 - Can Sequential patterns show purchasing relationships that would not be captured by unordered frequent itemsets?
 
@@ -34,7 +34,7 @@ https://youtu.be/gKksu2jxWkE
   - mlxtend
 
 
-pip install -r requirements
+pip install -r requirements.txt
 
 ### Run Order:
 1. Open and run `main_notebook.ipynb`
